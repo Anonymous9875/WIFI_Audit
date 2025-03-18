@@ -27,7 +27,7 @@ def print_logo():
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-{BWhite}X: @AnonNews_irc{BGreen}
+{BWhite}WI-FI: Audit{BGreen}
 
     """
     print(logo)
